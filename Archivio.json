@@ -1,23 +1,45 @@
+﻿{
 	"title" : "Database",
+	"vetrina" : [
 	  {
+			"id" : "96",
 			"posizione" : [10, 0, 15],
+			"denominazione" : "Skyphos in stile di Gnathia",
 			"materiale" : "Terrecotte",
+            "forma" : "Skyphos",
 			"cronologia": "Periodo ellenistico",
+			"da": "350 a.C.",
 			"a": "225 a.C.",
+		},
 		{
+			"id" : "97",
 			"posizione" : [30, 0, 15],
+			"denominazione" : "Skyphos in stile di Gnathia",
 			"materiale" : "Terrecotte",
+            "forma" : "Skyphos",
 			"cronologia": "Periodo ellenistico",
+			"da": "325 a.C.",
 			"a": "275 a.C.",
+		},
 		{
+			"id" : "99",
 			"posizione" : [10, 20, 15],
+			"denominazione" : "Epichysis in stile di Gnathia",
 			"materiale" : "Terrecotte",
+            "forma" : "Epichysis",
 			"cronologia": "Periodo ellenistico",
+			"da": "310 a.C.",
 			"a": "290 a.C.",
+		},
 		{
+			"id" : "100",
 			"posizione" : [30, 20, 15],
+			"denominazione" : "Skyphos in stile di Gnathia",
 			"materiale" : "Terrecotte",
+            "forma" : "Skyphos",
 			"cronologia": "Periodo ellenistico",
+			"da": "310 a.C.",
 			"a": "290 a.C.",
+		}
   ]
-
+}
