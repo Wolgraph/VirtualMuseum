@@ -1,0 +1,23 @@
+	"title" : "Database",
+	  {
+			"posizione" : [10, 0, 15],
+			"materiale" : "Terrecotte",
+			"cronologia": "Periodo ellenistico",
+			"a": "225 a.C.",
+		{
+			"posizione" : [30, 0, 15],
+			"materiale" : "Terrecotte",
+			"cronologia": "Periodo ellenistico",
+			"a": "275 a.C.",
+		{
+			"posizione" : [10, 20, 15],
+			"materiale" : "Terrecotte",
+			"cronologia": "Periodo ellenistico",
+			"a": "290 a.C.",
+		{
+			"posizione" : [30, 20, 15],
+			"materiale" : "Terrecotte",
+			"cronologia": "Periodo ellenistico",
+			"a": "290 a.C.",
+  ]
+
